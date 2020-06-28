@@ -1,6 +1,6 @@
 # Heart-Disease-Classification
 
-> *This notebook includes definition and implementation classification algorithms, cross-validation and others...*
+> *This notebook ["end-to-end_classification.ipynb"] includes definition and implementation classification algorithms, cross-validation and others...*
 
 
 Detailed information about classification algorithms concepts, alongside with this notebook, will be published on Medium...
